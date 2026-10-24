@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/web-agentic-docs",
+  "packageVersion": "0.2.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/web-agentic-docs",
+  "usageRepository": "https://github.com/x12i-sdk/web-agentic",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:05:18.668011+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "cb41fc0a069cd960cdcf910661068b2881e29aa2f4afe8337891bc8adc563fa8",
+    "manifestSha256": "df9cc416e32408d7dc6cfebfac29fd807a0239fdf8989994f6a6500ea8050d9b"
+  },
+  "npmPackages": [
+    "@x12i/web-agentic-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
